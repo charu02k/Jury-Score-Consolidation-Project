@@ -4,8 +4,6 @@ This project demonstrates how Excel’s **VLOOKUP** function can be used to cons
 
 ---
 
-This project showcases how Excel’s VLOOKUP function can be used to merge data from multiple sheets and create an automated scoring and ranking system. The dataset represents a hackathon-style event where three juries evaluated multiple teams across different criteria.
-
 📌 **Project Overview**
 
 The workbook contains:
